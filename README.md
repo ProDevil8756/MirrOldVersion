@@ -380,9 +380,10 @@ Thanks to:
 
 And many more people who aren't mentioned here, but can be found in [Contributors](https://github.com/SlamDevs/slam-mirrorbot/graphs/contributors).
   
-  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/publicmm9/zirconia)
+
+
+[![ဒါလေးနှိပ်ပြီး heroku deploy ရမှာပါ။](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/publicmm9/zirconia)
 
 # ဆက်သွယ်ရန်
 [Bot Tutorials Channel](https://t.me/BotTutorialsMM)
