@@ -39,7 +39,7 @@ tgx, yts, eztv, torlock, rarbg
 ```
 - Direct links Supported:
 ```
-letsupload.io, hxfile.co, anonfiles.com, bayfiles.com, antfiles,
+letsupload.io, hxfile.co, anonfiles.com, bayfiles.com,  antfiles,
 fembed.com, fembed.net, femax20.com, layarkacaxxi.icu, fcdn.stream,
 sbplay.org, naniplay.com, naniplay.nanime.in, naniplay.nanime.biz, sbembed.com,
 streamtape.com, streamsb.net, feurl.com, pixeldrain.com, racaty.net,
