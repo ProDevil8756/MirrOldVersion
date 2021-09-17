@@ -24,7 +24,7 @@
 - Sudo with or without Database
 - Multiple Trackers support
 - Extracting **tar.xz** support
-- Counting files/folders from Google Drive link
+- Counting files/folders from Google Drive links
 - View Link button instead of direct download link
 - Shell and Executor
 - Speedtest
