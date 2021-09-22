@@ -12,7 +12,7 @@ Thanks to:
 
 
 # ဒါလေးနှိပ်ပါ။
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/publicmm9/zirconiagd)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kzinthant-kas/slambotmirror)
 
 # ဆက်သွယ်ရန်
 [Bot Tutorials Channel](https://t.me/BotTutorialsMM)
