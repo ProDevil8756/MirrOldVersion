@@ -11,8 +11,7 @@ Thanks to:
 
 
 
-# ဒါလေးနှိပ်ပါ။
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kzinthant-kas/slambotmirror)
+# HerokuDeploy ဖို့ click Orange Box below;
 
 [![DEPLOY](https://telegra.ph/file/aa342d73e40f2c83f1e79.png)](https://dashboard.heroku.com/new?template=https://github.com/kzinthant-kas/slambotmirror)
 
