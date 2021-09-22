@@ -1,4 +1,4 @@
-# Myanmar user များအတွက် မွမ်းမံထားသာ MirrorBot ပါ
+# Myanmar user များအတွက် မွမ်းမံထားသော MirrorBot ပါ
 
 FB watch များ အပါအဝင် site အများစု support လုပ်ထားပါတယ်။
 တချို့ Direct Link မရလျင် en.savefrom.net မှာ Direct Download link ထုတ်ကာ /mirror ရိုက် ကူးပါ။
